@@ -3,6 +3,7 @@
 <br/>
 <a href="https://travis-ci.org/Valve/fingerprintjs"><img src="http://img.shields.io/travis/Valve/fingerprintjs/master.svg?style=flat" /></a>
 <a href="https://gitter.im/Valve/fingerprintjs"><img src="https://badges.gitter.im/Valve/fingerprintjs.png"/></a>
+<a href="https://app.fossa.io/projects/git%2Bgithub.com%2Fzenedge%2Ffingerprintjs?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.io/api/projects/git%2Bgithub.com%2Fzenedge%2Ffingerprintjs.svg?type=shield"/></a>
 </p>
 
 ...........................................................................
@@ -206,3 +207,6 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 [uglifyjs]: https://github.com/mishoo/UglifyJS
 [closure]: http://closure-compiler.appspot.com
 [canvas_research]: http://cseweb.ucsd.edu/~hovav/dist/canvas.pdf
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fzenedge%2Ffingerprintjs.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fzenedge%2Ffingerprintjs?ref=badge_large)
